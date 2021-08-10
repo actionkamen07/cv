@@ -1,0 +1,95 @@
+.title{
+  font-family: 'Style Script', cursive;
+  font-size: 50px;
+  color: #FFEDA3;
+  margin-right: 20px;
+}
+.invisible{
+  color: #232323;
+}
+
+.nav-item{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #FFEDA3;
+}
+
+.first-btn{
+  margin-left:  670px;
+}
+
+.second-btn{
+  margin: 0 10px 0 10px;
+}
+
+.navbar{
+  background-color: #232323;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.card-title{
+  font-family: 'WindSong', cursive;
+}
+
+.card-text{
+  font-family: 'Inconsolata', monospace;
+}
+/*  */
+
+
+
+.page-footer{
+  background-color: #232323;
+  margin-top: 40px;
+}
+
+.fab{
+  margin-right: 10px;
+  color: #FFEDA3;
+}
+
+.info{
+  color: #FFEDA3;
+  margin-top: 15px;
+}
+
+.Copyright{
+  text-align: center;
+  align-content: center;
+  margin: 20px;
+  color: #FFEDA3;
+}
+
+.img-style{
+  background-color: #FFEDA3;
+}
+
+.img{
+  margin-left: 280px;
+  margin-top: 20px;
+}
+
+.skills{
+  margin: 40px 0 40px 0;
+}
+
+.box{
+  background-color: #232323;
+}
+
+.photography{
+  margin: 35px;
+}
+
+
+.photography-text{
+  background-color: #232323;
+  color: #FFEDA3;
+}
+
+.photos{
+  margin: 35px;
+
+}
